@@ -1,8 +1,11 @@
 ## Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Hetvi Patel <br>
 
 🎓 I'm a Computer Science and Engineering student at IIT Gandhinagar and am passionate about coding and machine learning.
+
 💻 My focus lies in developing practical applications for these fields, with a particular interest in data science.
+
 💡 During my time as an ML intern at Infyu Labs, I gained valuable experience in implementing machine learning models to solve real-world problems.
+
 🤝 I believe in the power of collaboration and I'm always looking for opportunities to learn from and work with others in the tech community.
 
 ### Skills
