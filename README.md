@@ -4,6 +4,7 @@
 💻 My interest lies in developing practical applications for these fields. <br>
 💡 Previosly, I have worked as an ML Intern at InfyU Labs where I gained valuable experience in implementing machine learning models to solve real-world problems. <br>
 🤝 I believe in the power of collaboration and I'm always looking for opportunities to learn from and work with others in the tech community. <br>
+✉️ Feel free to contact me on hetvi.patel@iitgn.ac.in
 
 ### Skills
 
